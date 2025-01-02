@@ -1,16 +1,14 @@
-## Hi there 👋
+# About Me
+Hi. I'm Richard Quist, a software developer living in central Massachusetts.
 
-<!--
-**rmquist/rmquist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Summary
+Software engineer with significant experience in design and development across various platforms, specializing in C/C++, Java, and MATLAB. Expertise in leading projects, mentoring developers, cross-team collaboration and delivering robust software solutions.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Core Competencies 
++ Software design and architecture
++ API design and integration
++ Cross-platform development
++ C/C++, Java, MATLAB, JavaScript, HTML/XML
++ Automated unit and integration testing
++ Team leadership and mentoring
++ Problem-solving and innovation
